@@ -4,9 +4,9 @@ Developing-Data-Products-Assignment
 Coursera Course: Developing Data Products
 
 Assignment Submission Files
-- [ui.R](https://github.com/proshanta/DevelopingDataProductsAssignment/ui.R)
-- [server.R](https://github.com/proshanta/DevelopingDataProductsAssignment/server.R)
-- [README.md](https://github.com/proshanta/DevelopingDataProductsAssignment/README.md)
+- [ui.R](https://github.com/proshanta/DevelopingDataProductsAssignment/blob/master/ui.R)
+- [server.R](https://github.com/proshanta/DevelopingDataProductsAssignment/blob/master/server.R)
+- [README.md](https://github.com/proshanta/DevelopingDataProductsAssignment/blob/master/README.md)
 
 Instructions
 
